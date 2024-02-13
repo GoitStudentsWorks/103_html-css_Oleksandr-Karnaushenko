@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project-group-8/",
+    "build": "vite build --base=/103_html-css_Oleksandr-Karnaushenko/",
     "preview": "vite preview"
   },
   "devDependencies": {
